@@ -2,7 +2,7 @@
 
 package utils
 
-import "https://github.com/Jnanesh124/global"
+import "github.com/Jnanesh124/global"
 
 var TEXT map[string]string = map[string]string{
 
