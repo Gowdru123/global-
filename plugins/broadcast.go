@@ -14,7 +14,7 @@ import (
 func Broadcast(bot *gotgbot.Bot, ctx *ext.Context) error {
 	//Function to handle /broadcast command
 	if !IsAdmin(ctx.Message.From.Id) {
-		ctx.Message.Reply(bot, "<b>Sorry Thats An Admin Only Command :(</b>", &gotgbot.SendMessageOpts{ParseMode: "HTML", ReplyToMessageId: ctx.Message.MessageId})
+		ctx.Message.Reply(bot, "<b>u can't add becauseu r not my jnanesh :(</b>", &gotgbot.SendMessageOpts{ParseMode: "HTML", ReplyToMessageId: ctx.Message.MessageId})
 		return nil
 	}
 
