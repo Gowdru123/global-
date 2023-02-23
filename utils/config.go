@@ -2,7 +2,7 @@
 
 package utils
 
-import "github.com/PaulSonOfLars/gotgbot/v2"
+import "https://github.com/Jnanesh124/global"
 
 var TEXT map[string]string = map[string]string{
 
