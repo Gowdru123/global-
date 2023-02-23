@@ -88,7 +88,7 @@ You must set the Run command to :
 <details><summary>Deploy To Railway</summary>
 <p>
 <br>
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FJisin0%2FGo-Filter-Bot">
+<a href="https://railway.app/new/template?template=https://github.com/Jnanesh124/global">
   <img src="https://railway.app/button.svg" alt="deploy-to-railway">
 </a>
 </p>
