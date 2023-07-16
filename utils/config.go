@@ -9,14 +9,14 @@ var TEXT map[string]string = map[string]string{
 	"START": `
 <b>Hᴇʏ %v ɪᴍ %v ᴀɴ 𝐈 𝐚𝐦 𝐠𝐥𝐨𝐛𝐚𝐥 𝐭𝐡𝐞𝐚𝐭𝐞𝐫 𝐩𝐫𝐢𝐧𝐭 𝐛𝐨𝐭 𝐈 𝐰𝐢𝐥𝐥 𝐬𝐞𝐧𝐝 𝐚𝐥𝐥 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐧𝐞𝐰 𝐭𝐡𝐞𝐚𝐭𝐞𝐫 𝐩𝐫𝐢𝐧𝐭 𝐦𝐨𝐯𝐢𝐞'𝐬</b>
 
-<i>𝐔 𝐜𝐚𝐧 𝐚𝐥𝐬𝐨 𝐚𝐝𝐝 𝐦𝐞 𝐢𝐧 𝐠𝐫𝐨𝐮𝐩 𝐈 𝐰𝐢𝐥𝐥 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐭𝐡𝐞𝐚𝐭𝐞𝐫 𝐩𝐫𝐢𝐧𝐭 𝐦𝐨𝐯𝐢𝐞'𝐬 𝐢𝐧 𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐌𝐲 𝐂𝐫𝐞𝐚𝐭𝐞𝐫 @Beastonejnanesh</i>
+<i>𝐔 𝐜𝐚𝐧 𝐚𝐥𝐬𝐨 𝐚𝐝𝐝 𝐦𝐞 𝐢𝐧 𝐠𝐫𝐨𝐮𝐩 𝐈 𝐰𝐢𝐥𝐥 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐭𝐡𝐞𝐚𝐭𝐞𝐫 𝐩𝐫𝐢𝐧𝐭 𝐦𝐨𝐯𝐢𝐞'𝐬 𝐢𝐧 𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐌𝐲 𝐂𝐫𝐞𝐚𝐭𝐞𝐫 @jnaneshgowdru</i>
 	`,
 	"ABOUT": `
 <b>Լαɳցᥙαցҽ</b> : <a href='https://ROCKERSBACKUP'>ಕನ್ನಡ</a>
-<b>Ƒɾα𝓶ҽɯσƙ</b> : <a href='https://Beastonejnanesh'>jnanesh</a>
+<b>Ƒɾα𝓶ҽɯσƙ</b> : <a href='https://jnaneshgowdru'>jnanesh</a>
 <b>Sҽɾʋҽɾ</b> : <a href='heroku.com'>𝗛𝗲𝗿𝗼𝗸𝘂</a>
 <b>Ɗα𝜏αẞαടҽ</b> : <a href='mongodb.org'>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</a>
-<b>Ɗҽʋҽɬσρҽɾ</b> : <a href='t.me/Beastonejnanesh'>jnanesh</a>
+<b>Ɗҽʋҽɬσρҽɾ</b> : <a href='t.me/jnaneshgowdru'>jnanesh</a>
 <b>Sᥙρρσɾ𝜏</b> : <a href='t.me/ROCKERSBACKUP'>𝗛𝗲𝗿𝗲</a>
 	`,
 
@@ -85,7 +85,7 @@ var BUTTONS map[string][][]gotgbot.InlineKeyboardButton = map[string][][]gotgbot
 		{
 			{Text: "☂ Aʙᴏᴜᴛ ☂", CallbackData: "edit(ABOUT)"},
 			{Text: "🧭 Help 🧭", CallbackData: "edit(HELP)"},
-			{Text: "🫂 Sᴜᴘᴘᴏʀᴛ 🫂", Url: "t.me/Beastonejnanesh"},
+			{Text: "🫂 Sᴜᴘᴘᴏʀᴛ 🫂", Url: "t.me/jnaneshgowdru"},
 		},
 	},
 	"ABOUT": {
